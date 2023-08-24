@@ -1,0 +1,17 @@
+.Translate {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 36px;
+  border-radius: 9px;
+  color: #fff;
+  background: plum;
+}
+
+.header {
+  text-align: center;
+}
+
+.translate-text {
+  padding: 30px;
+  border-radius: 9px;
+  border: none;
+}
